@@ -1,0 +1,19 @@
+{
+  "name": "mtgjson-discord-file-bot",
+  "version": "1.0.0",
+  "description": "A bot to fetch files from MTGJSON.com",
+  "main": "bot.js",
+  "author": "MTGJSON Developers",
+  "engines": {
+    "node": "^12.8.0",
+    "npm": "^6.10.2"
+  },
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.0.0",
+    "node-fetch": "^2.6.0"
+  }
+}
