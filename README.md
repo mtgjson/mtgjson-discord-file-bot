@@ -1,7 +1,7 @@
 
 <img src="https://www.mtgjson.com/images/assets/logo-mtgjson-dark-blue.svg" width="100px">
 
-# MTGJSON Discord FIle Bot
+# MTGJSON Discord File Bot
 
 Fetch files on Discord from MTGJSON.com
 
